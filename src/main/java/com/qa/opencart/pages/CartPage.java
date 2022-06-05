@@ -9,7 +9,7 @@ public class CartPage {
 	
 	public void addToCart()
 	{
-		System.out.println("Add to Cart Features here");
+		System.out.println("Add to Cart Features here...");
 	}
 
 }
